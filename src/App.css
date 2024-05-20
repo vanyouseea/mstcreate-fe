@@ -1,0 +1,37 @@
+a {
+  color: #42b983;
+}
+
+.preinfo{
+  position: absolute;
+  top: 65px;
+  left: 20px;
+  right: 20px;
+  text-align: left;
+}
+
+.startUp{
+  width: 100%;
+  position: absolute;
+  top: 187px;
+  text-align: center;
+}
+
+.msg1{
+  position: absolute;
+  top: 217px;
+  left: 20px;
+  right: 20px;
+  font-size: 14px;
+  text-align: left;
+}
+
+.msg2{
+  position: absolute;
+  top: 187px;
+  left: 20px;
+  right: 20px;
+  font-size: 14px;
+  text-align: center;
+}
+

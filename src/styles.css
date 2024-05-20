@@ -1,0 +1,53 @@
+a {
+  color: #42b983;
+}
+
+.preinfo {
+  position: absolute;
+  top: 65px;
+  left: 20px;
+  right: 20px;
+  text-align: left;
+}
+
+.startUp {
+  width: 100%;
+  position: absolute;
+  top: 187px;
+  text-align: center;
+}
+
+.msg1 {
+  position: absolute;
+  top: 217px;
+  left: 20px;
+  right: 20px;
+  font-size: 14px;
+  text-align: left;
+}
+
+.msg2 {
+  position: absolute;
+  top: 187px;
+  left: 20px;
+  right: 20px;
+  font-size: 14px;
+  text-align: center;
+}
+
+body {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+
+  color: #2c3e50;
+  width: 290px;
+  height: 370px;
+  border: solid 2px;
+  top: 50%;
+  left: 50%;
+  margin-left: -145px;
+  margin-top: 100px;
+  position: relative;
+  text-align: center;
+  background-color: rgb(241, 253, 231);
+  border-radius: 15px 15px 15px 15px; /* 边框的弧度*/
+}
